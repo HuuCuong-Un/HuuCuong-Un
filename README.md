@@ -1,7 +1,15 @@
-###                    Hi there 👋, my fullname is Lê Hữu Cương
+### Hi there 👋, my fullname is Lê Hữu Cương
 
-          :fire: I am passionate about learning new language and technologies. 
+:fire: I am passionate about learning new language and technologies. 
 
+
+
+:mortar_board: I’m currently second-year student at FPT University Ho Chi Minh
+:star: My major is Software Engineering
+
+
+
+### :notebook: Some languages and tools 
 <!--
 **HuuCuong-Un/HuuCuong-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
