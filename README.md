@@ -1,6 +1,4 @@
-### Hi there 👋, my fullname is Lê Hữu Cương 
-
-:fire: I am passionate about learning new language and technologies. 
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/> there , My fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
 
@@ -30,8 +28,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
-
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Contact
 
 <p align="center">
   <a href="mailto:lehuucuong270603@gmail.com" >
