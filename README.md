@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+   Thanks for watching my profile! Have a nice day!  <br/>
   &copy; 2023 Huu Cuong Le HuuCuong-Un
 </div>
 <!--
