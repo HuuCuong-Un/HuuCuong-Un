@@ -1,6 +1,6 @@
 ### Hi there 👋, my fullname is Lê Hữu Cương 
 
-<h5> :fire: I am passionate about learning new language and technologies. 
+:fire: I am passionate about learning new language and technologies. 
 
 
 
