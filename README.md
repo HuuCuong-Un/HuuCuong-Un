@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my fullname is Lê Hữu Cương
+
+:fire: I am passionate about learning new language and technologies. 
 
 <!--
 **HuuCuong-Un/HuuCuong-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
