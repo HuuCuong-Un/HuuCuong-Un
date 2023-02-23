@@ -30,6 +30,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
+
 
 <p align="center">
   <a href="mailto:lehuucuong270603@gmail.com" >
