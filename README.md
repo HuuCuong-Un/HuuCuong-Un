@@ -9,6 +9,8 @@
 - 💻 All of my projects are available at [**my repositories**](https://github.com/HuuCuong-Un?tab=repositories)
 
 
+  
+
 
 ###  :notebook: Some languages and tools 
 
@@ -30,7 +32,10 @@
 
 
 
-
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Huu Cuong Le HuuCuong-Un
+</div>
 <!--
 **HuuCuong-Un/HuuCuong-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
