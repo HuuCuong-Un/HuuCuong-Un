@@ -31,6 +31,32 @@
 
 
 
+<p align="center">
+  <a href="mailto:lehuucuong270603@gmail.com" >
+    <img align="center" alt="HuuCuong-Un | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/c%C6%B0%C6%A1ng-l%C3%AA-371779218/">
+    <img align="center" alt="HuuCuong-Un | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/profile.php?id=100043342995315" target="_blank">
+      <img align="center" alt="HuuCuong-Un | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/cuongsiuunhan/" target="_blank">
+    <img align="center" alt="HuuCuong-Un | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/HuuCuong-Un" target="_blank">
+    <img align="center" alt="HuuCuong-Un | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/channel/UC7uz-Ctf31f1QWZrNl0c56Q" target="_blank">
+    <img align="center" alt="HuuCuong-Un | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+  </a> &nbsp;&nbsp;
+<p> 
+
 
 <div align="center">
    Thanks for watching my profile!  <br/>
