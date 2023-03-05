@@ -1,3 +1,5 @@
+
+
 ## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="5%"/> there , my fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
@@ -8,6 +10,7 @@
 
 
   
+
 
 
 ###  :notebook: Some languages and tools 
@@ -55,11 +58,13 @@
   </a> &nbsp;&nbsp;
 <p> 
 
+![z4158550798295_13689e7e49c3782aeeb78c0561b40cc2](https://user-images.githubusercontent.com/80157349/222977873-b61726af-d224-4b9a-a47a-1970c082a277.gif)
 
 <div align="center">
    Thanks for watching my profile!  <br/>
   &copy; 2023 Huu Cuong Le HuuCuong-Un
 </div>
+
 <!--
 **HuuCuong-Un/HuuCuong-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
