@@ -1,4 +1,4 @@
-## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/> there , My fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="5%"/> there , My fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
 
