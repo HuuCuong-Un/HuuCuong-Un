@@ -59,7 +59,7 @@
   </a> &nbsp;&nbsp;
 <p> 
 
-![z4158550798295_13689e7e49c3782aeeb78c0561b40cc2](https://user-images.githubusercontent.com/80157349/222977873-b61726af-d224-4b9a-a47a-1970c082a277.gif)
+
 
 <div align="center">
    Thanks for watching my profile!  <br/>
