@@ -1,11 +1,11 @@
 ![z4162387921675_690e266450a0786ac99ffe3c859eb635](https://user-images.githubusercontent.com/80157349/223336962-5bedc66d-7cbf-4edd-a554-4c14f9d938b6.gif)
 
 
-## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="5%"/> there , my fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+## <div align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="5%"/> , my fullname is Lê Hữu Cương <h5> I am passionate about learning new language and technologies. <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 
 
-- :mortar_board: I’m currently second-year student at FPT University Ho Chi Minh
+- :mortar_board: I’m currently working at FPT Software Ho Chi Minh
 - :star: My major is Software Engineering
 - 💻 All of my projects are available at [**my repositories**](https://github.com/HuuCuong-Un?tab=repositories)
 
